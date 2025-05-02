@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manoj Kumar Kumar
 =========================================================================================================================================
 
-Digital Transformation and Quality Engineering leadership
----------------------------------------------------------
+Selenium Project Leadership Member | Quality Engineering leader |
+-----------------------------------------------------------------
 
 Hi, I’m Manoj, a developer, blogger, tester and open-source enthusiast. I enjoy exploring the entire software development lifecycle and am especially interested in solving problems in the Digital transformation, Software Quality, Human-computer Interaction, and Cloud Computing spaces, having worked in enterprises, Fintech, and early-stage startups for over 15+ years. In my Professional career, my current role is Quality Engineering and Assurance practice for Cognizant, ANZ region.
 
